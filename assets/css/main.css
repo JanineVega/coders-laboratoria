@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+
+#seleccion{
+  position: absolute;
+  top: 10%;
+  left: 44%;
+  border-radius: 12px;
+  background-color: #FFC300;
+  border-style: none;
+  color: white;
+  font-size: 15px;
+
+}
+
+img{
+  border-radius: 8px;
+}
